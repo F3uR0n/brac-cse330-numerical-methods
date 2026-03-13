@@ -32,13 +32,19 @@ This repository contains **lab assignments, notebooks, and study materials** fro
 
 ---
 
-## Extras
+## 📚 Extra Resources
+
+### 🎥 Videos
 
 - **RRH** - https://docs.google.com/document/d/1iBB0qw32X-3nGlKcYcpWWIX0X0gQtUf4DEGzCzC9CLs/edit?tab=t.0
 - **RRH** - https://www.youtube.com/playlist?list=PLtQXTSdoymQcFoBLN1siztEU1hIkQxVQY
 - **ALB** - https://www.youtube.com/playlist?list=PLKHc9HBF0yJxhkfBHnZt0ZRs8d3_ghcYq
 - **Drive** - https://drive.google.com/drive/folders/17-QizJALELypGv67sxp2jn6XnVds3Hvx
 - **NLH** - https://www.youtube.com/playlist?list=PLitI121Py8yeTot0QlYZep7IFW2prGu27
+
+### 📖 Books
+
+- **TextBooks** - https://drive.google.com/drive/folders/1KUh18BnlOQyJ9E_TAI19HhJ-5bqa4d8v
 
 ---
 
