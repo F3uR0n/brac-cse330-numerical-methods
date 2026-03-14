@@ -44,7 +44,7 @@ This repository contains **lab assignments, notebooks, and study materials** fro
 
 ### 📖 Books
 
-- **TextBooks** - https://drive.google.com/drive/folders/1KUh18BnlOQyJ9E_TAI19HhJ-5bqa4d8v
+- **TextBook** - https://drive.google.com/drive/folders/1KUh18BnlOQyJ9E_TAI19HhJ-5bqa4d8v
 
 ---
 
