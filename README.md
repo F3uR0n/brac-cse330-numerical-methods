@@ -1,6 +1,6 @@
 # CSE330: Numerical Methods
 
-This repository contains course materials, notes, labs, and assignments for CSE330: Numerical Methods. It is organized to keep lecture content, practice resources, and assessments easy to find. The course was taken in Spring26.
+This repository contains course materials, notes, labs, and assignments for CSE330: Numerical Methods. It is organized to keep lecture content, practice resources, and assessments easy to find. The course was taken in Fall25.
 
 ## Extra Material
 - **RRH (Notes)** - https://docs.google.com/document/d/1iBB0qw32X-3nGlKcYcpWWIX0X0gQtUf4DEGzCzC9CLs/edit?tab=t.0
